@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/lights-out-game/static/css/main.ad8916fe.chunk.css",
-    "main.js": "/lights-out-game/static/js/main.d6992290.chunk.js",
-    "main.js.map": "/lights-out-game/static/js/main.d6992290.chunk.js.map",
-    "runtime-main.js": "/lights-out-game/static/js/runtime-main.e8eeda15.js",
-    "runtime-main.js.map": "/lights-out-game/static/js/runtime-main.e8eeda15.js.map",
-    "static/js/2.0f919881.chunk.js": "/lights-out-game/static/js/2.0f919881.chunk.js",
-    "static/js/2.0f919881.chunk.js.map": "/lights-out-game/static/js/2.0f919881.chunk.js.map",
-    "index.html": "/lights-out-game/index.html",
-    "precache-manifest.f1ff11d7724a9031afcd3004dc8b40e3.js": "/lights-out-game/precache-manifest.f1ff11d7724a9031afcd3004dc8b40e3.js",
-    "service-worker.js": "/lights-out-game/service-worker.js",
-    "static/css/main.ad8916fe.chunk.css.map": "/lights-out-game/static/css/main.ad8916fe.chunk.css.map",
-    "static/js/2.0f919881.chunk.js.LICENSE.txt": "/lights-out-game/static/js/2.0f919881.chunk.js.LICENSE.txt"
+    "main.css": "/Lights-out-game/static/css/main.ad8916fe.chunk.css",
+    "main.js": "/Lights-out-game/static/js/main.51917fce.chunk.js",
+    "main.js.map": "/Lights-out-game/static/js/main.51917fce.chunk.js.map",
+    "runtime-main.js": "/Lights-out-game/static/js/runtime-main.90cf7c8c.js",
+    "runtime-main.js.map": "/Lights-out-game/static/js/runtime-main.90cf7c8c.js.map",
+    "static/js/2.0f919881.chunk.js": "/Lights-out-game/static/js/2.0f919881.chunk.js",
+    "static/js/2.0f919881.chunk.js.map": "/Lights-out-game/static/js/2.0f919881.chunk.js.map",
+    "index.html": "/Lights-out-game/index.html",
+    "precache-manifest.b10055264cb40f4f64850cd039ab0aea.js": "/Lights-out-game/precache-manifest.b10055264cb40f4f64850cd039ab0aea.js",
+    "service-worker.js": "/Lights-out-game/service-worker.js",
+    "static/css/main.ad8916fe.chunk.css.map": "/Lights-out-game/static/css/main.ad8916fe.chunk.css.map",
+    "static/js/2.0f919881.chunk.js.LICENSE.txt": "/Lights-out-game/static/js/2.0f919881.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.e8eeda15.js",
+    "static/js/runtime-main.90cf7c8c.js",
     "static/js/2.0f919881.chunk.js",
     "static/css/main.ad8916fe.chunk.css",
-    "static/js/main.d6992290.chunk.js"
+    "static/js/main.51917fce.chunk.js"
   ]
 }
